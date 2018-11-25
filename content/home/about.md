@@ -36,4 +36,4 @@ weight = 5
 # Biography
 
 I am currently a Ph.D. student at University of British Columbia in the Department of Electrical Engineering.
-My research interest lie in the general area of the blockchain technology, specially, its security, scalability, and its application in Internet of Things, Social Network and Cyber Security.
+My research interests lie in the general areas of the blockchain technology, specially, its security, scalability, and its application in the Internet of Things, Social Network and Cyber Security.
