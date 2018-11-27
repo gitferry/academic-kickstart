@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Electrical Engineering"
-  institution = "Stanford University"
+  institution = "University of British Columbia"
   year = 2018
 
 [[education.courses]]
