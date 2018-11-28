@@ -35,9 +35,5 @@ weight = 5
 
 # Biography
 
-I am currently a Ph.D. student at University of British Columbia in the Department of Electrical Engineering.
+I am currently a Ph.D. student at University of British Columbia in the Department of Electrical Engineering, advised by [Dr.Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html).
 My research interests lie in the general areas of the blockchain technology, specially, its security, scalability, and its application in the Internet of Things, Social Network and Cyber Security.
-
-I served as a contributor in a Chinese translation group for translating
-Solidity documents into Chinese, which is verified by the official Solidity
-team.
