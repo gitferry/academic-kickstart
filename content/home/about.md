@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Distributed Systems",
     "Blockchain",
     "Internet of Things",
     "Cyber Security"
@@ -22,7 +23,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "MEng in Computer Science"
+  course = "M.Sc in Computer Science"
   institution = "National University of Defense Technology"
   year = 2015
 
@@ -30,10 +31,12 @@ weight = 5
   course = "BSc in Software Engingeering"
   institution = "Beijing Institute of Technology"
   year = 2011
- 
+
 +++
 
 # Biography
 
-I am currently a Ph.D. student at University of British Columbia in the Department of Electrical Engineering, advised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html).
-My research interests lie in the general areas of the blockchain technology, specially, its security, scalability, and its application in the Internet of Things, Social Network and Cyber Security.
+I am currently a Ph.D. student at the faculty of applied schience, University of British Columbia, advised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html).
+My research interests lie in the general areas of the blockchain technology, specially, its security, scalability, and its application.
+
+You can download my CV from [here](https://fangyugai.me/files/cv.pdf)

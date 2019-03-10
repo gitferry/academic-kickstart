@@ -13,7 +13,7 @@ title = "Fangyu Gai's Home Page"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-135970502-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Fangyu Gai"
-  role = "Ph.D. student of University of British Columbia"
+  role = "Ph.D. student of UBC"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -294,24 +294,24 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Posts"
+  url = "#posts"
   weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 [[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 7
+  weight = 6
 
 # Search.
 [params.search]
