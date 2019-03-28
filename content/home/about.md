@@ -38,4 +38,4 @@ My research interests lie in the general areas of the blockchain technology, spe
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-Last updated on Mar. 28 2019.
+<font color=gray size=2>*Last update on Mar. 28 2019.*</font>
