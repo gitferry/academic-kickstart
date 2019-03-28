@@ -36,4 +36,6 @@ weight = 5
 I am currently a first-year Ph.D. student at the faculty of applied science, University of British Columbia, advised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html).
 My research interests lie in the general areas of the blockchain technology, specially, its security, scalability, and its application.
 
-You can download my CV from [here](https://fangyugai.me/files/cv.pdf)
+You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
+
+Last updated on Mar. 28 2019.
