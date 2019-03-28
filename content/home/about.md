@@ -18,19 +18,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Electrical Engineering"
+  course = "PhD in Electrical Engineering, since 2018"
   institution = "University of British Columbia"
-  year = 2018
 
 [[education.courses]]
-  course = "M.Sc in Computer Science"
+  course = "M.Sc in Computer Science, since 2015"
   institution = "National University of Defense Technology"
-  year = 2015
 
 [[education.courses]]
-  course = "BSc in Software Engingeering"
+  course = "BSc in Software Engingeering, since 2011"
   institution = "Beijing Institute of Technology"
-  year = 2011
 
 +++
 

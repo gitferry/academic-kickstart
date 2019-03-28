@@ -19,7 +19,7 @@ summary = "This is a group project to collect blockchain-related papers from top
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/jianyu-niu/blockchain_conference_paper"
 
 # Links (optional).
 url_pdf = ""

@@ -19,4 +19,4 @@ weight = 65
 * Samsung Fellowship, 2015
 * Best Graduate Student of Beijing Institute of Technology, 2015
 * Guanghua Fellowship, 2017
-* China Scholarship Council(CSC) Scholarship (2018-2022)
+* China Scholarship Council (CSC) Scholarship (2018-2022)
