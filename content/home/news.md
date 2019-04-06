@@ -14,6 +14,6 @@ weight = 6
 
 +++
 
-* 04/2019: I am going to give a speach on off-chain scaling of current blockchains at [Blockchain@UBC Monthly Research Talk](https://mailchi.mp/8204346146a5/march-2019-newsletter)
+* 04/2019: I am going to give a speach on off-chain scaling of current blockchains at [Blockchain@UBC Monthly Research Talk](https://mailchi.mp/8204346146a5/march-2019-newsletter).
 
 * 03/2019: I am going to participate the [blockchain summer institute](https://blockchain.ubc.ca/summer-institute-2019) at [UBC](https://www.ubc.ca/) Vancouver campus.

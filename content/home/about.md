@@ -33,9 +33,10 @@ weight = 5
 
 # Biography
 
-I am currently a first-year Ph.D. student at the faculty of applied science, University of British Columbia, supervised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html).
-My research interests lie in the general areas of the blockchain technology, specially, its security, scalability, and its application.
+I am currently a first-year Ph.D. student at School of Engineering, University of British Columbia, supervised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html)), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca).
+My research interests lie in distributed system, cybersecurity, as well as blockchain technologies.
+Recently, I have been focusing on off-chain scaling technologies, including payment channel networks and sidechains.
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-<font color=gray size=2>*Last update on April. 4 2019.*</font>
+<font color=gray size=2>*Last update on April. 6 2019.*</font>
