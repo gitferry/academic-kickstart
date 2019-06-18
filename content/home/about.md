@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Electrical Engineering, since 2018"
+  course = "Ph.D. in Electrical Engineering, since 2018"
   institution = "University of British Columbia"
 
 [[education.courses]]
@@ -26,7 +26,7 @@ weight = 5
   institution = "National University of Defense Technology"
 
 [[education.courses]]
-  course = "BSc in Software Engingeering, since 2011"
+  course = "B.Sc in Software Engingeering, since 2011"
   institution = "Beijing Institute of Technology"
 
 +++
@@ -39,4 +39,4 @@ Recently, I have been focusing on off-chain scaling technologies, including paym
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-<font color=gray size=2>*Last update on May 1, 2019.*</font>
+<font color=gray size=2>*Last update on June 17, 2019.*</font>

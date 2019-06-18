@@ -14,6 +14,10 @@ weight = 6
 
 +++
 
+* 06/2019: Our joint work [A Secure Consensus Protocol for Sidechains](https://arxiv.org/abs/1906.06490) is pre-printed in arXiv.
+
+* 06/2019: I started a 6-month NSERC program at [Axiom Zen](https://www.axiomzen.co/) which is a very interesting company that creates [CryptoKitties](https://www.cryptokitties.co/). We will work on some research projects about BFT consensus for blockchains.
+
 * 04/2019: My coauthored book 《深入以太坊智能合约开发》(Diving Deep Into Ethereum Smart Contract Development) has been published! Check [this](https://item.m.jd.com/product/12593618.html) for details.
 
 * 04/2019: I am going to give a speach on off-chain scaling of current blockchains at [Blockchain@UBC Monthly Research Talk](https://mailchi.mp/8204346146a5/march-2019-newsletter).
