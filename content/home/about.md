@@ -39,4 +39,4 @@ Recently, I have been focusing on off-chain scaling technologies, including paym
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-<font color=gray size=2>*Last update on June 17, 2019.*</font>
+<font color=gray size=2>*Last update on July 15, 2019.*</font>
