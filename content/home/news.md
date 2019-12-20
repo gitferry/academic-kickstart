@@ -15,6 +15,8 @@ weight = 6
 +++
 * 12/2019: I started working (part-time) at [Dapper Labs](https://www.dapperlabs.com/) as a backend engineer for [Flow](https://www.withflow.org/en/) blockchain.
 
+* 12/2019: I joined [Graduate Blockchain Training Path](https://blockchain.ubc.ca/education/graduate-blockchain-training-path) as a Ph.D. student of [Blockchain@UBC](https://blockchain.ubc.ca/home), which will start in Jan. 2020.
+
 * 06/2019: Our joint work [A Secure Consensus Protocol for Sidechains](https://arxiv.org/abs/1906.06490) is pre-printed in arXiv.
 
 * 06/2019: I started a 6-month NSERC program at [Dapper Labs](https://www.dapperlabs.com/), the company that created [CryptoKitties](https://www.cryptokitties.co/). We will work on some research projects about BFT consensus for blockchains.

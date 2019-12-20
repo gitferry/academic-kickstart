@@ -290,7 +290,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications_recent"
   weight = 2
 
 [[menu.main]]
@@ -299,8 +299,8 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Talks"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
