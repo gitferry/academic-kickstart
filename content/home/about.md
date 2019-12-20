@@ -13,7 +13,6 @@ weight = 5
     "Distributed Systems",
     "Blockchain",
     "Internet of Things",
-    "Cyber Security"
   ]
 
 # List your qualifications (such as academic degrees).
