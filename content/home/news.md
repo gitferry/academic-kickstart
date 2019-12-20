@@ -13,6 +13,7 @@ title = "News"
 weight = 6
 
 +++
+
 * 12/2019: I started working (part-time) at [Dapper Labs](https://www.dapperlabs.com/) as a backend engineer for [Flow](https://www.withflow.org/en/) blockchain.
 
 * 12/2019: I joined [Graduate Blockchain Training Path](https://blockchain.ubc.ca/education/graduate-blockchain-training-path) as a Ph.D. student of [Blockchain@UBC](https://blockchain.ubc.ca/home), which will start in Jan. 2020.
