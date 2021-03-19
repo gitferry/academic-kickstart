@@ -8,7 +8,7 @@ draft = false
 tags = ["blockchain", "Golang"]
 
 # Project summary to display on homepage.
-summary = "Building a blockchain from scratch using Golang."
+summary = "A prototyping and evaluation framework that studies the next generation BFT (Byzantine fault-tolerant) protocols specific for blockchains, namely chained-BFT, or cBFT."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +19,7 @@ summary = "Building a blockchain from scratch using Golang."
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/gitferry/blockchain-go"
+external_link = "https://github.com/gitferry/bamboo"
 
 # Links (optional).
 url_pdf = ""

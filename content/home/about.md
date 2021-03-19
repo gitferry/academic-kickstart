@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Distributed Systems",
     "Blockchain",
-    "Internet of Things",
+    "Database",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,10 +32,10 @@ weight = 5
 
 # Biography
 
-I am currently a second-year Ph.D. student at School of Engineering, University of British Columbia, supervised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca).
-My research interests lie in distributed system, cybersecurity, as well as blockchain technologies.
-Recently, I have been focusing on off-chain scaling technologies, including payment channel networks and sidechains.
+I am currently a third-year Ph.D. student at School of Engineering, University of British Columbia, supervised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca).
+My research interests lie in distributed systems, especially blockchain systems.
+Most recently, I have been focusing on building efficient and high-performance consortium blockchains.
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-<font color=gray size=2>*Last update on Dec. 19, 2019.*</font>
+<font color=gray size=2>*Last update on Mar. 19, 2021.*</font>
