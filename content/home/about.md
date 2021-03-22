@@ -38,4 +38,4 @@ Most recently, I have been focusing on building efficient and high-performance c
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-<font color=gray size=2>*Last update on Mar. 19, 2021.*</font>
+<font color=gray size=2>*Last update on April 2, 2021.*</font>
