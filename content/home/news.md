@@ -21,7 +21,7 @@ weight = 6
 
 * 10/2020: Our paper [Fast-HotStuff: A Fast and Resilient HotStuff Protocol](https://arxiv.org/abs/2010.11454) is posted on arXiv with a [paper review](https://salemal.medium.com/paper-review-of-fast-hotstuff-67d9df4469cc) from [Alqahtani Salem](https://salemal.medium.com/).
 
-* 09/2020: I joined [Hangzhou Qulian Technology (Hyperchain)] as a research intern, working on improving state-of-the-art BFT consensus protocols.
+* 09/2020: I joined [Hangzhou Qulian Technology (Hyperchain)](https://www.hyperchain.cn/) as a research intern, working on improving state-of-the-art BFT consensus protocols.
 
 * 07/2020: Our paper [Incentive Analysis of Bitcoin-NG, Revisited](https://arxiv.org/abs/2001.05082) has been accepted to [IFIP WG 7.3 Performance 2020](https://www.performance2020.deib.polimi.it/)
 
