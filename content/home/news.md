@@ -14,6 +14,8 @@ weight = 6
 
 +++
 
+* 08/2021: I have passed my Ph.D. candidancy exam and become a Ph.D. candidate.
+
 * 04/2021: Our paper **Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling** is to appear at [IWQoS 2021](https://iwqos2021.ieee-iwqos.org/).
 
 * 04/2021: I joined [Database and Storage Lab](https://damo.alibaba.com/labs/database-and-storage) at [Alibaba DaMo Academy](https://damo.alibaba.com/) as a research intern.
