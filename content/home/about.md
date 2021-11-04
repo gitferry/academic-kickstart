@@ -32,10 +32,10 @@ weight = 5
 
 # Biography
 
-I am currently a Ph.D. candidate at School of Engineering, University of British Columbia, supervised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca).
-I also work with Prof. [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/). My research interests lie in distributed systems, especially blockchain systems.
-Most recently, I have been focusing on building efficient and high-performance consortium blockchains.
+I am currently a Ph.D. candidate at School of Engineering, University of British Columbia, supervised by Prof. [Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca).
+I also work closely with Prof. [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/). My research interests lie in distributed systems, especially blockchain systems.
+Most recently, I have been focusing on building scalable BFT-based blockchain systems.
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-<font color=gray size=2>*Last update on Sep. 9, 2021.*</font>
+<font color=gray size=2>*Last update on Nov. 4, 2021.*</font>

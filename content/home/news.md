@@ -14,6 +14,8 @@ weight = 6
 
 +++
 
+* 10/2021: I was invited to give a talk [Dissecting the Performance of Byzantine Agreement in Blockchain Era](https://fangyugai.me/files/bamboo.pdf) at [Facebook Novi](https://research.fb.com/category/blockchain-and-cryptoeconomics/), hosted by [Alberto Sonnino](https://sonnino.com/).
+
 * 08/2021: I have passed my Ph.D. candidancy exam and become a Ph.D. candidate.
 
 * 04/2021: Our paper [Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling](https://fangyugai.me/#) is to appear at [IWQoS 2021](https://iwqos2021.ieee-iwqos.org/).
