@@ -14,6 +14,8 @@ weight = 6
 
 +++
 
+* 12/2021: Our paper [Publish or Perish: Defending Withholding Attack in Dfinity Consensus](https://fangyugai.me/#) has won the best paper award of [MSN 2021](https://ieee-msn.org/2021/).
+
 * 10/2021: I was invited to give a talk [Dissecting the Performance of Byzantine Agreement in Blockchain Era](https://fangyugai.me/files/bamboo.pdf) at [Facebook Novi](https://research.fb.com/category/blockchain-and-cryptoeconomics/), hosted by [Alberto Sonnino](https://sonnino.com/).
 
 * 08/2021: I have passed my Ph.D. candidancy exam and become a Ph.D. candidate.

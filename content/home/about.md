@@ -38,4 +38,4 @@ Most recently, I have been focusing on building scalable BFT-based blockchain sy
 
 You can download my CV from [here](https://fangyugai.me/files/cv.pdf).
 
-<font color=gray size=2>*Last update on Nov. 4, 2021.*</font>
+<font color=gray size=2>*Last update on Dec. 14, 2021.*</font>
