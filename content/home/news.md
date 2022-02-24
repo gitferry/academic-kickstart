@@ -14,6 +14,8 @@ weight = 6
 
 +++
 
+* 02/2022: Our paper [Ubiquitous Verification in Centralized Ledger Database](https://fangyugai.me/#) is to appear at the industry track of [ICDE 2022](http://icde2022.ieeecomputer.my/).
+
 * 12/2021: Our paper [Publish or Perish: Defending Withholding Attack in Dfinity Consensus](https://fangyugai.me/#) has won the best paper award of [MSN 2021](https://ieee-msn.org/2021/).
 
 * 10/2021: I was invited to give a talk [Dissecting the Performance of Byzantine Agreement in Blockchain Era](https://fangyugai.me/files/bamboo.pdf) at [Facebook Novi](https://research.fb.com/category/blockchain-and-cryptoeconomics/), hosted by [Alberto Sonnino](https://sonnino.com/).
@@ -27,9 +29,3 @@ weight = 6
 * 03/2021: Our paper [Dissecting the Performance of Chained-BFT](https://arxiv.org/abs/2103.00777) is to appear at [ICDCS 2021](https://icdcs2021.us/).
 
 * 12/2020: Our paper [On the Performance of Pipelined HotStuff](https://arxiv.org/abs/2107.04947) is to appear at [INFOCOM 2021](https://infocom2021.ieee-infocom.org/).
-
-* 10/2020: Our paper [Fast-HotStuff: A Fast and Resilient HotStuff Protocol](https://arxiv.org/abs/2010.11454) is posted on arXiv with a [paper review](https://salemal.medium.com/paper-review-of-fast-hotstuff-67d9df4469cc) from [Alqahtani Salem](https://salemal.medium.com/).
-
-* 09/2020: I joined [Hangzhou Qulian Technology (Hyperchain)](https://www.hyperchain.cn/) as a research intern, working on improving state-of-the-art BFT consensus protocols.
-
-* 07/2020: Our paper [Incentive Analysis of Bitcoin-NG, Revisited](https://arxiv.org/abs/2001.05082) has been accepted to [IFIP WG 7.3 Performance 2020](https://www.performance2020.deib.polimi.it/)
